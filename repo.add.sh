@@ -7,7 +7,7 @@
 # @copyright  2023 iHub TO
 # @license    MIT
 # @version    0.0.1
-# @link       https://github.com/pkgstore
+# @link       https://lib.onl
 # -------------------------------------------------------------------------------------------------------------------- #
 
 (( EUID == 0 )) && { echo >&2 'This script should not be run as root!'; exit 1; }
