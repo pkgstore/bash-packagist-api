@@ -3,7 +3,7 @@
 # Adding repository in Packagist.
 #
 # @package    Bash
-# @author     Kitsune Solar <mail@kitsune.solar>
+# @author     Kai Kimera <mail@kai.kim>
 # @copyright  2023 iHub TO
 # @license    MIT
 # @version    0.0.1
